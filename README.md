@@ -12,7 +12,7 @@
 [![Redis](https://img.shields.io/badge/Redis-7-DC382D?style=flat-square&logo=redis&logoColor=white)](https://redis.io)
 [![Docker](https://img.shields.io/badge/Docker-ready-2496ED?style=flat-square&logo=docker&logoColor=white)](https://docker.com)
 
-[**→ Написать и заказать бота**](https://t.me/@prompt_vibecoder_ai)
+[**→ Написать и заказать бота**](https://t.me/prompt_vibecoder_ai)
 
 </div>
 
@@ -124,6 +124,6 @@ DUPLICATE_CHECK_WINDOW=600      # окно проверки дублей (сек
 
 Настрою и запущу под ваш сервисный центр или мастерскую.
 
-**[→ Написать в Telegram](https://t.me/@prompt_vibecoder_ai)**
+**[→ Написать в Telegram](https://t.me/prompt_vibecoder_ai)**
 
 </div>
