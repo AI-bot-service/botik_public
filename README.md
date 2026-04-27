@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🔧 RepairBot
+<img src="logo.svg" alt="RepairBot" width="480"/>
 
-**Telegram-бот для приёма заявок на ремонт техники**
+<br/>
 
 Клиент пишет — мастер отвечает. Без звонков, без лишних шагов.
 
